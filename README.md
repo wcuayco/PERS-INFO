@@ -1,4 +1,3 @@
 # PERS-INFO
-PERS-INFO
-S1IT Cuayco PN
+S1IT William J Cuayco Jr PN
 # add personal information
